@@ -25,10 +25,26 @@ Walk through a high level implementation with an existing diagram
 * Discuss any pros and cons of the solution
 
 ## Practice Questions
-`` Write a function that reverses a string.
+*  Write a function that reverses a string.
 
 Example:
 Input: "hello"
 Output: "olleh"
 ``
+* Substring
 
+Write a function that takes in two strings and returns true if the second string is substring of the first, and false otherwise.
+
+Examples: 
+Input: laboratory, rat
+Output: true
+
+Input: cat, meow
+Output: false
+Next Prime
+
+* Given a prime number, return the next smallest prime number
+
+Examples:
+Input: 3
+Output: 5
